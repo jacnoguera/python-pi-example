@@ -4,4 +4,4 @@ def main(msg):
     print(msg)
 
 
-main("Hello world2")
+main("Hello world2.Conflict")
